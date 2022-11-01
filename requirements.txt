@@ -1,4 +1,3 @@
-#git+https://github.com/dyumnin/cocotb.git#egg=cocotb
-cocotb
+git+https://github.com/dyumnin/cocotb.git#egg=cocotb
 cocotb-coverage
 cocotb-bus
